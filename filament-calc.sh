@@ -7,8 +7,8 @@ get_inputs() {
     --text="Enter Filament Information" \
     --add-entry="Weight of Filament (grams):" \
     --add-entry="Price of Filament (without currency):" \
-    --add-entry="Amount of Filament Used (grams):" \
     --add-entry="Currency:" \
+    --add-entry="Amount of Filament Used (grams):" \
     --separator="," \
     --width=400 \
     --height=250
