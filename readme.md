@@ -6,7 +6,7 @@
 
 2. Open your terminal.
 
-3. Navigate to the folder where you downloaded the script.  Usualy:
+3. Navigate to the folder where you downloaded the script. Usually:
 
    ```bash
    cd Downloads
