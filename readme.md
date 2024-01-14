@@ -1,17 +1,12 @@
-
-
 ## Install Guide - GNU/Linux
 
-## 1. Download file :  [![Download](https://github.com/cybergas123/bash-gui-filament-calc/raw/main/filament-calc.sh)
+1. Download the installation script:
 
-## 2 :  open terminal
+   [Download Filament Calculator](https://github.com/cybergas123/bash-gui-filament-calc/raw/main/filament-calc.sh)
 
-## 3 :  cd folder you downloaded it in usualy it is Downloads - cd Downloads
+2. Open your terminal.
 
-## 4 : cd bash-gui-filament-calc
+3. Navigate to the folder where you downloaded the script.  Usualy:
 
-## 5 :  chmod +x filament-calc.sh
-
-## 6 :  ./filament-calc.sh
-
-## 7 : press enter
+   ```bash
+   cd Downloads
