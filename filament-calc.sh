@@ -20,7 +20,7 @@ input_data=$(get_inputs)
 # Extracting input values
 IFS=',' read -r filament_weight filament_price_before filament_used currency <<< "$input_data"
 
-# Calculating
+# Calculate
 price_for_filament_used=$(echo "scale=2; ($filament_used * $filament_price_before) / $filament_weight" | bc)
 
 # Display
