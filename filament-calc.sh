@@ -14,7 +14,7 @@ get_inputs() {
     --height=250
 }
 
-# getting data from user
+# get all the data of theuser
 input_data=$(get_inputs)
 
 # Extracting input values
