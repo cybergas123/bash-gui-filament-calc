@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# display text input
+# display text, input
 get_inputs() {
     zenity --forms \
     --title="Filament Calculator" \
